@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-1.1-blue)
 
 <p align="center">
-  <img src="images/finished.jpeg" alt="AWRAS 1.1 complete" width="700"/>
+  <img src="images/finished%20awras.jpeg" alt="AWRAS 1.1 complete" width="700"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@ The build stalled for most of the summer on one thing: I couldn't get LW-PLA to 
 If you're printing an airframe on an Ender 3, that's the single most useful thing in this repo.
 
 <p align="center">
-  <img src="images/printing.jpeg" alt="Printing airframe parts on the Ender 3" width="500"/>
+  <img src="images/manufacturing%20awras%20fuselage%20being%20printed.jpeg" alt="Printing airframe parts on the Ender 3" width="500"/>
 </p>
 
 ---
@@ -41,19 +41,19 @@ If you're printing an airframe on an Ender 3, that's the single most useful thin
 **Wiring first, on the bench.** The full harness — F405, ELRS receiver, ESC, servos, FPV camera and VTX — was laid out and wired before anything went into the airframe. Easier to find mistakes on a flat surface than inside a fuselage.
 
 <p align="center">
-  <img src="images/wiring-harness.jpeg" alt="Full avionics harness wired on the bench before installation" width="600"/>
+  <img src="images/manufacturing%20awras%20wires%20without%20the%20frame.jpeg" alt="Full avionics harness wired on the bench before installation" width="600"/>
 </p>
 
 **Assembly.** Superglue and epoxy for the joints, books and plates as clamps while things cured.
 
 <p align="center">
-  <img src="images/assembly.jpeg" alt="Airframe sections glued and weighted while curing" width="500"/>
+  <img src="images/manufacturing%20awras%20glue%20and%20books.jpeg" alt="Airframe sections glued and weighted while curing" width="500"/>
 </p>
 
 **Electronics in.** Everything mounted in the bay, battery strapped, camera in the nose.
 
 <p align="center">
-  <img src="images/electronics-installed.jpeg" alt="Avionics and battery installed in the fuselage" width="600"/>
+  <img src="images/a%20view%20of%20awras%20almost%20done%20with%20battery%20and%20camera%20easy%20to%20see.jpeg" alt="Avionics and battery installed in the fuselage" width="600"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ If you're printing an airframe on an Ender 3, that's the single most useful thin
 ## As far as it got
 
 <p align="center">
-  <img src="images/airfield.jpeg" alt="AWRAS 1.1 at the airfield" width="600"/>
+  <img src="images/finished%20plane%20in%20the%20airfield%20after%20rejected%20clearance.jpeg" alt="AWRAS 1.1 at the airfield" width="600"/>
 </p>
 
 *At the airfield. This is the last photo of 1.1 — clearance didn't come through, and I flew home a few days later.*
